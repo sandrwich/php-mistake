@@ -1,0 +1,12 @@
+{
+    "name": "pinklolicorn/php-mistake",
+    "description": "This is the only real php.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Java\\": "src/Java",
+            "Php\\": "src/Php"
+        }
+    },
+    "require": {}
+}
